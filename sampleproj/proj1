@@ -1,0 +1,20 @@
+import java.io.*;
+import java.lang.*;
+public class Rectangle
+{
+public static void main(String args[])
+{
+int length,int breadth;
+int Rectangle(int l, int b);
+{
+length=l;
+breadth=b;
+}
+length=10;
+breadth=2;
+area=length*breadth;
+{
+System.out.println("area of this rectangle is =" +area);
+}
+}
+}
